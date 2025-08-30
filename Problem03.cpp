@@ -1,15 +1,15 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [User-Input]
-//               Problem : 👉👉 [2] Sum of Two Numbers
+//               Problem : 👉👉 [3] Average of Three Numbers
 // ================================================
 #include <iostream>
 using namespace std;
 int main(){
-  int x, y ;
-  cout<<"Enter 2 Number : ";
-  cin>> x>> y;
-  cout<<"Sum is " <<x+y;
-  cout<<endl;
+    int x,y,z;
+    cout<<"Enter 3 Numbers ";
+    cin>> x >>y>>z;
+    cout<<"Average of Three Numbers = " << (x+y+z)/2<<endl;
+
     return 0;
 }
