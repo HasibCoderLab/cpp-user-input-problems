@@ -3,3 +3,5 @@ using namespace std;
 int main(){
     return 0;
 }
+git commit -m"solve 3rd problem of 'user i
+nput 'in C++"
