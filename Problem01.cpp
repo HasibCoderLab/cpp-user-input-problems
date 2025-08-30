@@ -8,9 +8,9 @@
 using namespace std;
 int main(){
     float r;
-    cout<< "Enter Radius Value ";
+    cout<< "Enter Radius  ";
     cin>> r;
-    cout <<"Solution : " << r*r*3.1416<<endl;
+    cout <<"Area of Circle = " << r*r*3.1416<<endl;
 
     return 0;
 }
