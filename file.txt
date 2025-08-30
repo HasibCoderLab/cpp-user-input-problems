@@ -5,3 +5,6 @@ int main(){
 }
 git commit -m"solve 3rd problem of 'user i
 nput 'in C++"
+
+
+git commit -m"create  a  new file for solve problem in C++"
