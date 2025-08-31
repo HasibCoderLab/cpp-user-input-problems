@@ -7,4 +7,10 @@ int main(){
 git commit -m"solve 3rd problem of 'user input 'in C++"
 
 
+// ================================================
+//               Language: C++ / Cpp
+//               Topic   : [User-Input]
+//               Problem : 👉👉 [6] Simple Interest Calculation
+// ================================================
+
 git commit -m"create  a  new file for solve problem in C++"
