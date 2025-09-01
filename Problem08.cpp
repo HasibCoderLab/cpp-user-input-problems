@@ -18,10 +18,10 @@ int main()
     cout << "Enter Divisor : ";
     cin >> Divisor;
 
-    int  Quotient = Dividend / Divisor;
-    int Remainder = Dividend  % Divisor; 
-    cout<<"Quotient = " <<Quotient <<endl;
-    cout<<"Remainder = " << Remainder <<endl;
-    
+    int Quotient = Dividend / Divisor;
+    int Remainder = Dividend % Divisor;
+    cout << "Quotient = " << Quotient << endl;
+    cout << "Remainder = " << Remainder << endl;
+
     return 0;
 }
